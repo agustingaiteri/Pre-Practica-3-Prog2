@@ -17,3 +17,5 @@ Integrantes:<br />
 .<br />
 .<br />
 .<br />
+
+para crear un constructor se pone def __init__
